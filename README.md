@@ -45,7 +45,7 @@ This project was built to practice **React fundamentals, component-based archite
 Clone the repository
 
 ```bash
-git clone https://github.com/Faiza-Umar/TextUtils.git
+git clone https://github.com/Faiza-Umar/TextUtils
 ```
 
 Navigate into the project folder
